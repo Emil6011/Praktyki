@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Zadanie_1_MVC_Dobre.props" />
-</Project>
